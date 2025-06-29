@@ -1,4 +1,4 @@
-## Pareto Deployment in Machine Learning: A Sober Assessment
+## Pareto Deployments in Machine Learning
 
 A common problem in machine learning deployment is regression: updating a model improves some cases but introduces new errors on cases previously handled correctly. The usual practice—replacing the old model with a new one if it improves average accuracy—accepts these trade-offs as a fact of life. But engineering, at its best, is about making progress without backsliding.
 
